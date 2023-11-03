@@ -1,0 +1,10 @@
+.estilo_div{
+    background: url(..resources/.img1) no_repeat;
+    height: 600px;
+    width: 600px;
+}
+h1{
+    height: 600px;
+    width: 600px;
+    color: blue;
+}
